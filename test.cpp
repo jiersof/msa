@@ -2,5 +2,5 @@
 using namespace std;
 int func()
 {
-  return 1;
+  return 0;
 }
